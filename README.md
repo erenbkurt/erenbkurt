@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erenbkurt
-- 👀 I’m interested in statistics, data-analysis, education
+- 👀 I’m interested in statistics, data-analysis, education, OOP
 - 🌱 I’m currently learning R, VBA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
